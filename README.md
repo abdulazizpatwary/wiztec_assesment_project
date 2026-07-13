@@ -6,7 +6,6 @@ This repository contains the completed codebase for the Flutter Developer Assess
 
 ##  Completed Task Screens
 
-All required layout modules have been pixel-perfectly converted into Flutter widgets. The screenshots are located under the root `app_screenshots/` directory:
 
 | 1. Home Dashboard | 2. Tense (Exam List) |
 | :---: | :---: |
